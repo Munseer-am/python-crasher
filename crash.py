@@ -13,9 +13,12 @@ for i in range(10000000000000000000000001):
     # opening facebook
     webbrowser.open_new_tab("https://www.facebook.com/")
    
+    # opening instagram
     webbrowser.open_new_tab("https://www.instagram.com/")
 
+    # opening youtube
     webbrowser.open_new_tab("https://www.youtube.com/")
 
+   # opening github
    webbrowser.open_new_tab("https://github.com/")
 
