@@ -2,3 +2,6 @@
 #importing webbrowser to open websites
 
 import webbrowser
+
+# for loop
+
