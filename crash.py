@@ -11,4 +11,5 @@ for i in range(10000000000000000000000001):
    
     webbrowser.open_new_tab("https://www.instagram.com/")
 
+    webbrowser.open_new_tab("https://www.youtube.com/")
 
