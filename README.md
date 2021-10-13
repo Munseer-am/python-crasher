@@ -6,5 +6,7 @@ python script for crashing devices
 
 This works by putting load on your ram.
 
-When you run this script.It will open browser and open website many time
+When you run this script.It will open browser and try to open website continuesly on new tabs.
+
+it will put load on your ram and device will crashed
 
