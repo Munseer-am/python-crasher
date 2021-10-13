@@ -4,5 +4,7 @@ python script for crashing devices
 
 # How this works
 
-this works by putting load on your ram
+This works by putting load on your ram.
+
+When you run this script.It will open browser and open website many time
 
