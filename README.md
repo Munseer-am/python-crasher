@@ -10,3 +10,4 @@ When you run this script.It will open browser and try to open website continuesl
 
 it will put load on your ram and device will crashed
 
+>> Note: Your device normal once you restart
