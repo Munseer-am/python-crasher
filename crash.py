@@ -1,4 +1,5 @@
 #! usr/bin/env python3
+# system crasher
 #importing webbrowser to open websites
 
 import webbrowser
