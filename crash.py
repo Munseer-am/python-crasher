@@ -4,6 +4,8 @@
 
 import webbrowser
 
+# printing
+
 # for loop
 for i in range(10000000000000000000000001):
     # opening websites
