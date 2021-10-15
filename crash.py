@@ -4,7 +4,7 @@
 
 import webbrowser
 
-# printing name of 
+# printing name of author
 
 # for loop
 for i in range(10000000000000000000000001):
