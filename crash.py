@@ -5,7 +5,7 @@
 import webbrowser
 
 # printing name of author
-__author__ = 
+__author__ = "Munseer.am"
 
 # for loop
 for i in range(10000000000000000000000001):
